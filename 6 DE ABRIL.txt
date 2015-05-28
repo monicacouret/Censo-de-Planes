@@ -288,7 +288,7 @@
         
         <div id="menu">
                 <ul id="dropline">
-                        <li class="home"><a style="color:#fff;width:10px;margin-left:5px;" href="https://sites.google.com/a/bbva.com/pack-de-bienvenida-gtb/home" target="_parent" onclick="mark"></a></li>
+                        <li class="home"><a style="color:#fff;width:10px;margin-left:5px;" href="https://sites.google.com/a/bbva.com/censo-de-planes" target="_parent" onclick="mark"></a></li>
                         <li class="top"><a id="Global" class="principal" href="https://sites.google.com/a/bbva.com/censo-de-planes/global" target="_parent">Global</a>
 
                         </li>
